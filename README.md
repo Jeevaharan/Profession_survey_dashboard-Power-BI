@@ -63,6 +63,26 @@ The dataset contains responses from a survey conducted among data professionals.
 
 ---
 
+## Data Cleaning and Transformation
+
+The dataset was cleaned and transformed using **Power Query Editor** in Power BI. Key steps include:
+
+1. **Data Cleaning**:
+   - Removed irrelevant or duplicate rows.
+   - Handled missing values to ensure consistency in analysis.
+
+2. **Data Transformation**:
+   - Added calculated columns for metrics such as age groups and salary ranges.
+   - Splitted columns to remove unwanted data.
+
+3. **Data Enrichment**:
+   - Created custom columns to derive insights, such as average happiness scores and work-life balance ratings.
+   - Generated summary statistics to identify trends in programming language usage and demographic distributions.
+
+These steps ensured the dataset was accurate, consistent, and optimized for visualization.
+
+---
+
 ## Insights and Observations
 
 - **Highest Salary**: Data Scientists reported the highest average salary compared to other roles.

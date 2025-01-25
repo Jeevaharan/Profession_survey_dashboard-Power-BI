@@ -73,10 +73,10 @@ The dataset contains responses from a survey conducted among data professionals.
 
 ## Files in the Repository
 
-- `Power BI - Final Project.xlsx`: Raw dataset used for visualization.
-- `Dashboard.pbix`: Power BI file containing the interactive dashboard.
+- `survey_data.xlsx`: Raw dataset used for visualization.
+- `Power_BI_report.pbix`: Power BI file containing the interactive dashboard.
 - `README.md`: Documentation of the project.
-- `dashboard.png`: Image of the dashboard.
+- `Dashboard.png`: Image of the dashboard.
 
 ---
 

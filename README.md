@@ -10,7 +10,7 @@ The primary goal of this project is to understand the landscape of data professi
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)  
+![Dashboard Preview](Dashboard.png)  
 *Above: Interactive dashboard showcasing insights from the survey.*
 
 ---
